@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi ya!! 👋
+
+My name is Nimantha Bandara and I'm a [Data Scientist]. Welcome to my GitHub profile! Here you'll find projects related to Data Science, ML, NLP.
 
 <!--
 **RNimantha/RNimantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
