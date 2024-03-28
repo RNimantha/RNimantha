@@ -1,6 +1,6 @@
-# Hi ya!! 👋
+## Hi ya!! 👋
 
-### I'm Nimantha Bandara
+# I'm Nimantha Bandara
 
 name is Nimantha Bandara and I'm a Data Scientist. Welcome to my GitHub profile! Here you'll find projects related to Data Science, ML, NLP.
 
