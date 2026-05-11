@@ -56,6 +56,7 @@ Currently the **Founder & AI Lead at DetaLabs AI**, where I architect and ship A
 | [Question-Assitance](https://github.com/RNimantha/Question-Assitance) | AI-powered question answering system | Python |
 | [Pipeline](https://github.com/RNimantha/Pipeline) | ML pipeline automation and orchestration | Python |
 | [AI](https://github.com/RNimantha/AI) | AI experiments and applied research notebooks | Python |
+| [User-Entity-Resolution-Deduplication](https://github.com/RNimantha/User-Entity-Resolution-Deduplication) | User entity resolution and deduplication pipeline | Python |
 
 ---
 
