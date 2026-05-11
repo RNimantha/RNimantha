@@ -55,7 +55,7 @@ Currently the **Founder & AI Lead at DetaLabs AI**, where I architect and ship A
 | [Recommendation-Systems](https://github.com/RNimantha/Recommendation-Systems) | Collaborative & content-based recommendation engines | Python, Jupyter |
 | [Question-Assitance](https://github.com/RNimantha/Question-Assitance) | AI-powered question answering system | Python |
 | [Pipeline](https://github.com/RNimantha/Pipeline) | ML pipeline automation and orchestration | Python |
-| [Agentic AI PoC]([https://github.com/RNimantha/langgraph-MMM-forecasting.git]) | Graph-based forecasting and marketing mix modeling PoC built with LangGraph, FastAPI, and deterministic ML pipelines. | Python, Langgraph,fastapi |
+| [Agentic AI PoC](https://github.com/RNimantha/langgraph-MMM-forecasting.git) | Graph-based forecasting and marketing mix modeling PoC built with LangGraph, FastAPI, and deterministic ML pipelines. | Python, Langgraph,fastapi |
 | [User-Entity-Resolution-Deduplication](https://github.com/RNimantha/User-Entity-Resolution-Deduplication) | User entity resolution and deduplication pipeline | Python, Spark, Autoencoder,Splink |
 
 ---
